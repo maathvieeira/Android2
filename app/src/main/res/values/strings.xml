@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cadastro de Filmes</string>
+    <string name="titulo">Titulo:</string>
+    <string name="salvar">Salvar</string>
+    <string name="listar">Listar</string>
+    <string name="genero">Genero</string>
+    <string name="nota">Nota</string>
+</resources>
