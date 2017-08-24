@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\680c36e6f0e7f3f4e0d4c193e3d6e75c1260ec33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_4c4a207fd78e3fde57e327f8a3fee41d7b0d09ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\fe121e28e831d83b6fc70b58d28d6697d4533aea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_a5b01f3c4b3152544ea4df5721ba59fad6840993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_eb0de4d8c92bc66e219a44dfda9b6d7d73634a8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\49b10e316638156411dfaee6cc4bfd352132bad1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_3218fa29e4cbad26327c37022129a756a4415820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\2dd8569da4558bba3d8509522ef325c0ca16b257\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_922ea9a7ad63f8f31186d4ac80b6e0376a999477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\79ed3fd0776a9ad871a69cdba7577c62a77283cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_7d032f5b092dafa5d848e41b7ab2cbbeaa938ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\e1d6cf1100e23e445ba97eb72a9e1d6b0779e957\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_f7699dae7be8157c4a6a5dd367f1b509dec62fb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\a58864302f18cf92f8a1366fddcbe9db0f9dda1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_cad039bd3e5f7c7dd92a9ee3025332be328bccba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\9de6a313282ad7abaa537f1ccd5b736c84e1ea0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_57343ee7f92055d4c2a7c0a5bd568ac78d7f3abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\9105fcd0bc8ae1fc862c1bec9e713a21dfa43502\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_d2ce446830500a9a6c53c3f75394b27d3e8e21bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_c590f67651eb706e4c22cc48605732e5e4440c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus Vieira\.android\build-cache\269b663d35ac006729b632a86123c9e398c9c82e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Matheus Vieira\AndroidStudioProjects\exeFilmes\app\build\intermediates\pre-dexed\release\classes_80d3dadef67439f429d194e45e81ae60bffe9bbf.jar" />
+    </item>
+
+</items>
